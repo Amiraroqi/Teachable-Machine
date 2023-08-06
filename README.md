@@ -1,5 +1,5 @@
 # Teachable-Machine
-#Code snippets to ues my model 
+
 
    <div>Teachable Machine Image Model</div>
    <button type="button" onclick="init()">Start</button>
